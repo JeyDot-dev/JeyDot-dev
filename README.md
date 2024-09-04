@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I’m currently working on [Transcendence](https://github.com/JeyDot-dev/transcendence), the last project of the 42 School common core.
+
+I just installed Wakatime so houndreds of hours haven't been counted :(
+
+[![JeyDot's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JeyDot)](https://github.com/anuraghazra/github-readme-stats)
+
+I'm currently looking for a 4-6 months internship in either software engineering, network, sys-admin, or even devops/security :)
 <!--
 **JeyDot-dev/JeyDot-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
