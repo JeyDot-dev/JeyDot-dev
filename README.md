@@ -1,12 +1,24 @@
-## Hi there 👋
+## 👋 Hello, World!
 
-I’m currently working on [Transcendence](https://github.com/JeyDot-dev/transcendence), the last project of the 42 School common core.
+### 🌱 About Me
+- 🌸 Currently learning Japanese, aiming to achieve **JLPT N5** by December.
+- 📚 Studying for **CompTIA A+** and **Network+** certifications, with plans to complete both by January.
+- 🎓 Wrapping up my **Common Core @42Lausanne**, set to finish by next week.
+- 🎯 Actively seeking a **4-6 month internship** in:
+  - IT Support
+  - SOC (Security Operations Center)
+  - Network Administration
+  - System Administration
+  - DevOps or Software Engineering
 
-I just installed Wakatime so houndreds of hours haven't been counted :(
+### 🚀 What I'm Working On
+I'm currently deep into [**Transcendence**](https://github.com/JeyDot-dev/transcendence), the final project of the **42 School Common Core**. This project has been a culmination of everything I’ve learned, and I’m excited to see it through!
+
+### 📊 Coding Stats
+I recently started using **WakaTime** to track my coding activity (unfortunately, the hundreds of hours prior to this went untracked). But here’s how it’s looking now:
 
 [![JeyDot's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JeyDot)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm currently looking for a 4-6 months internship in either software engineering, network, sys-admin, or even devops/security :)
 <!--
 **JeyDot-dev/JeyDot-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
