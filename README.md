@@ -15,7 +15,7 @@
 I'm currently deep into [**Transcendence**](https://github.com/JeyDot-dev/transcendence), the final project of the **42 School Common Core**. This project has been a culmination of everything I’ve learned, and I’m excited to see it through!
 
 ### 📊 Coding Stats
-I recently started using **WakaTime** to track my coding activity (unfortunately, the hundreds of hours prior to this went untracked). But here’s how it’s looking now:
+Started tracking the 5th of september 2024
 
 [![JeyDot's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JeyDot)](https://github.com/anuraghazra/github-readme-stats)
 
