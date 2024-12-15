@@ -1,8 +1,8 @@
 ## 👋 Hello, World!
 
 ### 🌱 About Me
-- [ ] 🌸 Currently learning Japanese, aiming to achieve **JLPT N5** by December.
-- [ ] 📚 Completing Meta's front-end and back-end curriculum on coursera. Currently module 5/9 in front-end
+- [ ] 🌸 Currently learning Japanese, aiming to achieve **JLPT N5** by the end of march.
+- [ ] 📚 Completing Meta's front-end and back-end curriculum on coursera. Currently module 6/9 in front-end
 - [x] 🎓 ~~Wrapping up my **Common Core @42Lausanne**~~ `finished: mid-september 2024`
 - [ ] 🎯 Actively seeking a **4-6 month internship** as a full-stack dev for april 2025.
 
