@@ -7,5 +7,7 @@
 - 🌸 **Language Learning:** Currently studying Japanese, aiming to achieve **JLPT N4** by the end of the year. | Progress: Over 160 kanji and 400 words learned.
 
 ### 🚀 Projects & Interests
-- **Portfolio Development:** Building my portfolio website using:
-  - **Tech Stack:** React, Vite, ChakraUI, Framer Motion.
+- **Portfolio Development:** Finished the MVP, it is now in the "maintaining and upgrade as I go" phase.
+  - **Tech Stack:** React, Vite, ChakraUI.
+- **Learning Android dev:** I'm currently speedrunning Kotlin, JetPack Compose and Android development tutorials/crash courses before making my first small project.
+  - **Tech Stack:** Kotlin, Jetpack Compose, Android Studio
