@@ -11,3 +11,5 @@
   - **Tech Stack:** React, Vite, ChakraUI.
 - **Learning Android dev:** I'm currently speedrunning Kotlin, JetPack Compose and Android development tutorials/crash courses before making my first small project.
   - **Tech Stack:** Kotlin, Jetpack Compose, Android Studio
+
+If you want to contact me, please use the form in my website ! [J-portfolio](https://jeydot-dev.github.io/j-portfolio/)
