@@ -9,7 +9,6 @@
 ### 🚀 Projects & Interests
 - **Portfolio Development:** Finished the MVP, it is now in the "maintaining and upgrade as I go" phase.
   - **Tech Stack:** React, Vite, ChakraUI.
-- **Learning Android dev:** I'm currently speedrunning Kotlin, JetPack Compose and Android development tutorials/crash courses before making my first small project.
-  - **Tech Stack:** Kotlin, Jetpack Compose, Android Studio
+- **Java:** I'm currently learning Java. 
 
 If you want to contact me, please use the form in my website ! [J-portfolio](https://jeydot-dev.github.io/j-portfolio/)
