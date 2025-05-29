@@ -11,4 +11,6 @@
   - **Tech Stack:** React, Vite, ChakraUI.
 - **Java:** I'm currently learning Java. Through the IBM Java Developer Professional Certificate curriculum.
 
+### Maybe you are wondering what happened to my 20 or so repos. I simply decided to separate all of my pedagogic projects/school projects from the more personal or useful projects. You can find all of the projects I make for practice/learning at https://github.com/orgs/exercises-projets-pedagogiques/repositories
+
 If you want to contact me, please use the form in my website ! [J-portfolio](https://jeydot-dev.github.io/j-portfolio/)
