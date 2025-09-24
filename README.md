@@ -5,7 +5,7 @@
 - 🎓 **Education:** ~~Wrapped up my **Common Core @42Lausanne**~~ | `Finished: mid-September 2024`
   - Currently slowly progressing through the curriculum while working as a full-stack dev in a big swiss insurance company.
     - Step 1: RNCP6 (Bachelor equivalent) in Application Development aiming to finish by the end of 2026
-    - Step 2: RNCP7 (Master equivalent) in Artificial Intelligence and Algorithms aiming to finish by mid 2027
+    - Step 2: RNCP7 (Master equivalent) in Artificial Intelligence and Algorithms aiming to finish by mid 2028
 - 🎯 **Career Goals:** Keep working as a full-stack dev until december 2026 then focusing on finishing my studies and either start working as AI specialist or Trying my own business.
 - 🌸 **Language Learning:** Currently studying Japanese, aiming to achieve **JLPT N5** by the end of the year. | Progress: Over 160 kanji and 400 words learned.
 
